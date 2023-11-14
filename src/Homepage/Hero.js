@@ -1,6 +1,5 @@
 import React from "react";
 import "./styles/Hero.css";
-import { Button } from 'antd';
 import invoiceHero from "../images/Invoice-amico.svg";
 
 function Hero() {
